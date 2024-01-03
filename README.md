@@ -1,4 +1,4 @@
-# Frontend Developer Take-Home Assignment: Pokédex Challenge
+# Frontend Developer Assignment: Pokédex Challenge
 
 ## Overview
 
